@@ -1,0 +1,11 @@
+NPM: 613250023
+Nama: Muhammad Rizky Purnama
+
+URL Lokal: http://localhost/ATS613250023/index.php
+
+Login Credentials:
+Email: rizky@gmail.com
+Password: password123
+
+Repository GitHub:
+https://github.com/rzzky18/ATS613250023
